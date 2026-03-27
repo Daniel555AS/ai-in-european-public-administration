@@ -78,3 +78,30 @@ snapshot of where AI stands in European public administration today.
 - ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) : Static site hosting service used to publish the exported HTML notebook and make the analysis publicly accessible online.
 
 - ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) : Document preparation system used to write and format the academic Preprint, including tables, figures, footnotes, and bibliography.
+
+---
+
+## Getting Started
+
+All these steps are defined within the project's main notebook `ai_in_european_public_administration.ipynb`.
+
+### Requirements
+
+Installs all project dependencies listed in `requirements.txt`.
+
+```bash
+pip install -r requirements.txt
+```
+
+### Renderer Configuration
+
+The notebook uses Plotly for visualizations. Depending on your environment, 
+you may need to adjust the renderer at the top of the notebook:
+```python
+# Choose one option and comment out the other.
+
+# pio.renderers.default = "colab"    # Google Colab
+pio.renderers.default = "notebook"   # VS Code / Jupyter / Local
+```
+
+---
