@@ -21,6 +21,21 @@ around GovTech participation, pointing to a broader limitation in how public sec
 AI initiatives are currently reported. Overall, the results offer a data-driven 
 snapshot of where AI stands in European public administration today.
 
+---
+
+## Dimensions of Analysis
+
+1. Primary Technology Distribution in the Dataset.
+
+2. Distribution of AI Cases Across European Countries and Regions.
+
+3. AI Adoption Across Government Functions: A COFOG-Based Analysis.
+
+4. Distribution of AI Capabilities and Sectoral Deployment in European Public Administration.
+
+5. AI Impacts in the Public Sector: Evidence on Service Delivery, Administrative Efficiency, and Governance.
+
+6. GovTech Participation & Responsible Organisations in Public Sector AI Projects.
 
 ---
 
