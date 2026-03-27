@@ -1,5 +1,22 @@
 # Artificial Intelligence in European Public Administration: A Data-Driven Analysis of Adoption, Capabilities, and Impact
 
+---
+
+## Project Structure
+
+```
+├── download/
+│   └── ai_in_european_public_administration.zip   # Full project download
+├── project/
+│   ├── ai_in_european_public_administration.ipynb # Main analysis notebook
+│   ├── pstw_dataset.csv                           # Dataset snapshot (March 4, 2026)
+│   └── requirements.txt                           # Python dependencies
+├── index.html                                     # Public web version of the notebook
+└── README.md                                      # Project documentation
+
+```
+---
+
 ## Technological Stack
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) :  Core programming language used for all data loading, preprocessing, analysis, and visualization tasks.
