@@ -2,6 +2,28 @@
 
 ---
 
+## Abstract
+
+This work examines how Artificial Intelligence is being adopted across European 
+public administrations, using the Public Sector Tech Watch (PSTW) dataset compiled 
+by the European Commission's Joint Research Centre as an empirical foundation. Through 
+a descriptive and exploratory analysis of 1,805 AI-related cases, I examine patterns 
+of adoption across countries and regions, the distribution of AI capabilities across 
+government sectors, and the impacts that AI deployments are reporting in practice. 
+The findings show that AI adoption is geographically concentrated in Western and 
+Northern Europe, with Learning-based systems dominating across most sectors. 
+Internally-focused deployments are slightly more common than citizen-facing ones, 
+yet service-related impacts are the most frequently reported, suggesting that internal 
+modernization often translates into tangible improvements in public service delivery. 
+Governance-related impacts, such as transparency and public participation, remain 
+comparatively marginal. The analysis also reveals significant documentation gaps 
+around GovTech participation, pointing to a broader limitation in how public sector 
+AI initiatives are currently reported. Overall, the results offer a data-driven 
+snapshot of where AI stands in European public administration today.
+
+
+---
+
 ## Project Structure
 
 ```
