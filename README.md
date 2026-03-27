@@ -112,3 +112,10 @@ pio.renderers.default = "notebook"   # VS Code / Jupyter / Local
 ```
 
 ---
+
+## Author
+
+*Daniel Orlando Arias Sierra*\
+2026
+
+---
