@@ -39,6 +39,13 @@ snapshot of where AI stands in European public administration today.
 
 ---
 
+## Dataset
+
+> European Commission, Joint Research Centre (2026): PSTW: Public Sector Tech Watch latest dataset of selected cases. [Dataset] doi: 10.2905/JRC.J1MWC9R PID: http://data.europa.eu/89h/e8e7bddd-8510-4936-9fa6-7e1b399cbd92
+>
+> **Retrieved:** March 4, 2026.
+---
+
 ## Project Structure
 
 ```
